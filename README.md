@@ -1,24 +1,8 @@
 # Sobre
-Meu nome é **Giovanne** mas pode me chamar de **Dark**, como sou mais conhecido na internet.
-Sou programador por hobby mas pretendo entrar na carreira algum dia,  atualmente tenho 15 anos e estudo programação por conta própria desde os 10 anos, graças ao @gustavoguanabara.
+Na internet, sou mais conhecido como **Dark**, meu apelido.
+
+Sou programador por hobby mas pretendo entrar na carreira algum dia,  atualmente tenho 15 anos e estudo programação por conta própria desde os 10 anos.
 # Projetos
 Não tenho muitos projetos ainda mas o que tenho são:
 * [Tekgy](https://github.com/dark-gr/tekgy) - Um mod baseado em forge para minecraft, no momento em que escrevo isso ainda não tem nenhum commit.
 * [Markdown-Cheat-Sheet](https://github.com/dark-gr/markdown-cheat-sheet) - Um repositório simples contendo as formatações de markdown.
-# Perfil
-Se você se interessou em algum projeto pode acessar meu perfil clicando [aqui](https://github.com/dark-gr).
-
-<!--
-**Dark-Gr/Dark-Gr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

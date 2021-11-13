@@ -6,5 +6,5 @@ I'm a brazillian hobbyist programmer but I plan to enter the career someday, I'm
 ## Main Projects
 I don't have many projects for now but the projects I'm currently working are:
 
-* [Tekgy](https://github.com/Tekgy) - A technical mod for minecraft, currently at it's very start.
-* [Markdown-Cheat-Sheet](https://github.com/Markdown-Cheat-Sheet) - A small repository that contains all markdown formatting codes.
+* [Tekgy](https://github.com/Dark-Gr/Tekgy) - A technical mod for minecraft, currently at it's very start.
+* [Markdown-Cheat-Sheet](https://github.com/Dark-Gr/Markdown-Cheat-Sheet) - A small repository that contains all markdown formatting codes.

@@ -1,8 +1,10 @@
-# Sobre
-Na internet, sou mais conhecido como **Dark**, meu apelido.
+## About
+On the internet, I'm better known as **Dark**, my nickname.
 
-Sou programador por hobby mas pretendo entrar na carreira algum dia,  atualmente tenho 15 anos e estudo programação por conta própria desde os 10 anos.
-# Projetos
-Não tenho muitos projetos ainda mas o que tenho são:
-* [Tekgy](https://github.com/dark-gr/tekgy) - Um mod baseado em forge para minecraft, no momento em que escrevo isso ainda não tem nenhum commit.
-* [Markdown-Cheat-Sheet](https://github.com/dark-gr/markdown-cheat-sheet) - Um repositório simples contendo as formatações de markdown.
+I'm a brazillian hobbyist programmer but I plan to enter the career someday, I'm currently 15 years old and I've been studying programming on my own since I was 10 years old.
+
+## Main Projects
+I don't have many projects for now but the projects I'm currently working are:
+
+* [Tekgy](https://github.com/Teekgy) - A mod for minecraft, currently at it's very start.
+* [Markdown-Cheat-Sheet](https://github.com/Markdown-Cheat-Sheet) - A small repository that contains all markdown formatting codes.
